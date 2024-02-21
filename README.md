@@ -8,3 +8,4 @@
 | 4 | Uber | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | Medium | 
 | 5 | Snapchat | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | Medium | 
 | 6 | Twitter | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | Easy |
+| 7 | NYT | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | Easy |
