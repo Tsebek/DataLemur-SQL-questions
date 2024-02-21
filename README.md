@@ -9,3 +9,4 @@
 | 5 | Snapchat | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | Medium | 
 | 6 | Twitter | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | Easy |
 | 7 | NYT | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | Easy |
+| 8 | Facebook | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | Easy |
