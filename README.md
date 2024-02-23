@@ -12,3 +12,4 @@
 | 8 | Facebook | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | Easy |
 | 9 | Microsoft | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | Easy |
 | 10 | LinkedIn | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | Easy |
+| 11 | Twitter | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | Medium |
