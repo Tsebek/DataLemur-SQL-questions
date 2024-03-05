@@ -13,3 +13,4 @@
 | 9 | Microsoft | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | Easy |
 | 10 | LinkedIn | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | Easy |
 | 11 | Twitter | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | Medium |
+| 12 | Amazon | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | Medium |
