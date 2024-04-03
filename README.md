@@ -14,3 +14,4 @@
 | 10 | LinkedIn | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | Easy |
 | 11 | Twitter | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | Medium |
 | 12 | Amazon | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | Medium |
+| 13 | Spotify | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | Medium |
